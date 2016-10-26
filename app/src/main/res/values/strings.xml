@@ -57,4 +57,6 @@
 
     <string name="id_fmt">User ID: %s</string>
     <string name="email_fmt">Email: %s</string>
+
+    <string name="facebook_app_id">1817399205210477</string>
 </resources>
